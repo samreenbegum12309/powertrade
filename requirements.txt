@@ -1,0 +1,7 @@
+streamlit
+pymysql
+pandas
+numpy
+matplotlib
+torch
+scikit-learn
