@@ -1,7 +1,10 @@
 streamlit
-pymysql
 pandas
 numpy
-matplotlib
-torch
+pymysql
+beautifulsoup4
+selenium
 scikit-learn
+torch
+matplotlib
+
